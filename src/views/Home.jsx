@@ -3,7 +3,7 @@ import Gallery from '../components/Gallery'
 const Home = () => {
   return (
     <div className='App'>
-      <h1>Natural Pic</h1>
+      <h1 className='text-center'>Natural Pic</h1>
       <Gallery />
     </div>
   )
